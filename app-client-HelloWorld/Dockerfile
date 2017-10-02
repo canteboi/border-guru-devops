@@ -21,4 +21,4 @@ RUN npm install -g grunt-cli && \
     npm install --unsafe-perm=true
 
 # Set entrypoint
-CMD ["node","app.js"]
+CMD ["node","server.js"]
