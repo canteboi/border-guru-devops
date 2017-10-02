@@ -1,0 +1,4 @@
+app:
+  image: canteboi/app-client
+  ports:
+    - 3000:3000
